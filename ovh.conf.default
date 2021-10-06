@@ -1,0 +1,11 @@
+[default]
+; OVH API endpoint:
+; - For OVH Europe, use "ovh-eu"
+; - For OVH North-America, use "ovh-ca"
+endpoint=ovh-eu
+
+; OVH Europe.
+[ovh-eu]
+application_key=aaa
+application_secret=bbb
+consumer_key=cccaaaaa
